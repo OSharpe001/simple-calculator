@@ -52,6 +52,7 @@ function App() {
           {result}
         </p> 
         <input
+          
           pattern="[0-9]" 
           ref={inputRef} 
           type="number" 
